@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<img align="right" height="300" src="[https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif](https://pin.it/1REkWIJjY)"  />
+<img align="right" height="300" src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif"  />
 
 ###
 
