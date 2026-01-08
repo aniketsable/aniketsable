@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&multiline=true&width=435&separator=%3C&lines=Aniket+Sabale%3CTop+1%25+TryHackMe;+Ethical+Hacker)](https://git.io/typing-svg)" alt="Typing Animation" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Aniket+Sabale;Top+1%25+TryHackme;Ethical+Hacker" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -11,10 +11,8 @@
 <div align="center">
   
   <!-- Floating animation container -->
-  <div style="display: inline-block; animation: float 6s ease-in-out infinite;">
-    <img src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif" width="200" height="200" />
-  </div>
 
+<img align="centre" height="300" src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif"  />
 </div>
 
 
