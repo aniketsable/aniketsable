@@ -31,15 +31,15 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
-### 📊 Live Surveillance Data
-
+<!-- Moving Hackerman Text -->
+<div class="hackerman-text">
+  <marquee behavior="scroll" direction="left" scrollamount="5">
+    🔐 ACCESS GRANTED • ROOT PRIVILEGES ENABLED • SYSTEM SECURED • PENETRATION TESTING • VULNERABILITY ASSESSMENT •
+  </marquee>
+</div>
+<!-- Animated Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketsable&theme=react-dark&bg_color=0d1117&hide_border=true&line=00eeff&point=00eeff&area=true&area_color=00eeff" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsable&layout=compact&theme=react-dark&hide_border=true&bg_color=0d1117&title_color=00eeff&icon_color=00eeff" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aniketsable&show_icons=true&theme=react-dark&hide_border=true&bg_color=0d1117&title_color=00eeff&icon_color=00eeff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketsable&theme=react-dark&bg_color=0d1117&hide_border=true&line=00eeff&point=00eeff&area=true&area_color=00eeff&custom_title=My+Coding+Activity" width="90%" />
 </p>
 
 ### 📫 Establish Connection
