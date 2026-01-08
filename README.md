@@ -153,5 +153,6 @@ terminal_contact: aniketsable2424@gmail.com
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00eeff&height=60&section=footer" />
 </p>
 
-💻 echo "Security is not a product, but a process."
-Made with ❤️ and 🛡️ by Aniket Sabale
+### **💻 `echo "Security is not a product, but a process."`**
+
+**Made with ❤️ and 🛡️ by Aniket Sabale**
