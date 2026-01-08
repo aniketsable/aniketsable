@@ -62,24 +62,10 @@
 
 
 <div align="center">
-  
-  <!-- Moving dots animation -->
-  <div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
-    <div style="width: 10px; height: 10px; background: #00eeff; border-radius: 50%; animation: bounce 1s infinite;"></div>
-    <div style="width: 10px; height: 10px; background: #00eeff; border-radius: 50%; animation: bounce 1s infinite 0.2s;"></div>
-    <div style="width: 10px; height: 10px; background: #00eeff; border-radius: 50%; animation: bounce 1s infinite 0.4s;"></div>
-  </div>
-  
-  <p style="color: #00eeff; font-size: 14px; animation: glow 2s infinite;">
     🔐 Ethical Hacker | 🛡️ Security Researcher | 💻 Developer
   </p>
   
 </div>
-
-<!-- Snake animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aniketsable/aniketsable/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 <details>
 <summary>📌 Quick Info</summary>
