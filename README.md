@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00EEFF&center=true&vCenter=true&width=600&height=80&lines=Welcome+to+my+GitHub+Profile!;I'm+Aniket+Sabale;Cybersecurity+Engineering+Student;Top+1%+TryHackMe;Ethical+Hacker+🛡️" alt="Typing Animation" />
+  <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&multiline=true&width=435&separator=%3C&lines=Aniket+Sabale%3CTop+1%25+TryHackMe;+Ethical+Hacker)](https://git.io/typing-svg)" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -12,27 +12,17 @@
   
   <!-- Floating animation container -->
   <div style="display: inline-block; animation: float 6s ease-in-out infinite;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" height="200" />
+    <img src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif" width="200" height="200" />
   </div>
 
 </div>
 
-## 🚀 Quick Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniketsable&show_icons=true&theme=dark&bg_color=0d1117&title_color=00eeff&icon_color=00eeff&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aniketsable&theme=dark&background=0d1117&border=00eeff&stroke=00eeff&ring=00eeff&fire=00eeff&currStreakLabel=00eeff" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsable&layout=compact&theme=dark&bg_color=0d1117&title_color=00eeff&hide_border=true" width="48%" />
-</p>
 
 ## 🛠️ Tech Stack
 
 <p align="center">
   <!-- Animated icons row -->
-  <img src="https://skillicons.dev/icons?i=py,linux,bash,git,html,css,js,react,mongodb,nodejs,mysql,docker&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=py,linux,bash,git,html,css,js,mysql,docker&theme=dark&perline=6" />
 </p>
 
 <p align="center">
@@ -71,27 +61,7 @@
   <img src="https://wakatime.com/badge/user/yourusername.svg?style=flat-square&color=00eeff" />
 </p>
 
-<style>
-  @keyframes float {
-    0% { transform: translateY(0px); }
-    50% { transform: translateY(-20px); }
-    100% { transform: translateY(0px); }
-  }
-  
-  @keyframes bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-10px); }
-  }
-  
-  @keyframes glow {
-    0%, 100% { box-shadow: 0 0 5px #00eeff; }
-    50% { box-shadow: 0 0 20px #00eeff, 0 0 30px #00eeff; }
-  }
-  
-  .glowing {
-    animation: glow 2s infinite;
-  }
-</style>
+
 
 <div align="center">
   
